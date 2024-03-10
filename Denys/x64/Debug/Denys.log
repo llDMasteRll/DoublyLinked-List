@@ -1,0 +1,4 @@
+﻿  Denys.cpp
+C:\Users\absol\source\repos\Denys\Denys.cpp(429,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\absol\source\repos\Denys\Denys.cpp(430,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Denys.vcxproj -> C:\Users\absol\source\repos\Denys\x64\Debug\Denys.exe

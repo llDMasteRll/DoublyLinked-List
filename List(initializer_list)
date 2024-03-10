@@ -1,7 +1,0 @@
-List(initializer_list<T>& Items)
-{
-    for (auto& c : Items)
-    {
-
-    }
-}

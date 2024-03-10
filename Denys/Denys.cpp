@@ -37,7 +37,7 @@ public:
 
     size_t size() { return Size; }
 
-    bool empty() { return head != nullptr; }
+    bool empty() { return head; }
 
     void push_front(T val)
     {
